@@ -1,0 +1,1 @@
+# rollup-plugin-typescript2-jsx-runtime-bug
